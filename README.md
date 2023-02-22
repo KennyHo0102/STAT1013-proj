@@ -88,3 +88,4 @@ Extra Section, Call it Whatever You Want
 * Random tidbit
 
 * Other sort of impressive-sounding thing you did
+* [my code](https://github.com/KennyHo0102/STAT1013-proj/blob/main/STAT1013-proj%20demo.ipynb)
