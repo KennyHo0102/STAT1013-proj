@@ -89,3 +89,12 @@ Extra Section, Call it Whatever You Want
 
 * Other sort of impressive-sounding thing you did
 * [my code](https://github.com/KennyHo0102/STAT1013-proj/blob/main/STAT1013-proj%20demo.ipynb)
+
+## Frequently used elements
+
+```python=9
+  print('Hello, world!')
+  # See if you can set arbitrary line number or 
+  # change syntax highlighting for different language
+  # in this code block.
+```
